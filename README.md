@@ -33,7 +33,7 @@ This project focuses on reducing food waste by encouraging better food managemen
 
 ## Setup Instructions
 1. Clone the repository:
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/hannahhadirah/A216430_HannahHadirah_DrNelson_Project2.git)
+   git clone https://github.com/hannahhadirah/A216430_HannahHadirah_DrNelson_Project2.git
 
 2. Open the project in Android Studio
 
@@ -42,8 +42,8 @@ This project focuses on reducing food waste by encouraging better food managemen
 4. Run the app on an emulator or physical device
 
 ## Links
-- GitHub Repository: [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME](https://github.com/hannahhadirah/A216430_HannahHadirah_DrNelson_Project2.git)
-- E-Portfolio: [https://YOUR_GITHUB_PAGES_LINK](https://hannahhadirah.github.io/)
+- GitHub Repository: https://github.com/hannahhadirah/A216430_HannahHadirah_DrNelson_Project2.git
+- E-Portfolio: https://hannahhadirah.github.io/
 
 
 ## Note
